@@ -19,7 +19,7 @@
 | **[LF11Bv2](https://github.com/dvrdnz/LF11Bv2)**  | Networked lab documentation |
 | **[azure-learning](https://github.com/dvrdnz/azure-learning)** | Azure learning path|
 | **[az-900-intro...](https://github.com/dvrdnz/az-900-introduction-to-microsoft-azure)** | Lab notes from the AZ-900 course |
-| **[gemanki](https://github.com/dvrdnz/gemanki)**         | Small library to generate Anki decks |
+| **[gemanki](https://github.com/dvrdnz/gemanki)**         | Library to generate Anki decks |
 | **[asset-forge](https://github.com/dvrdnz/asset-forge)** | Asset generators and templates  |
 
 <em>Documentation is not incidental to the work — it is the mechanism that separates assertion from established fact.</em>
