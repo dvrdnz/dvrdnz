@@ -5,7 +5,7 @@
 
 <h2> Hey, I'm dvrdnz 👋 </h2>
 <a href="https://dvrdnz.github.io/asset-forge/generators/terminal-card/index.html">
-  <img align='right' src="https://github.com/dvrdnz/asset-forge/blob/main/assets/generated/terminal-card.svg" width="480" height="1240">
+  <img align='right' src="https://github.com/dvrdnz/asset-forge/blob/main/assets/generated/terminal-card.svg" width="460" height="1240">
 </a>
 <p><em>IT Systems Integration student focused on building secure, reproducible infrastructure and documenting the reasoning behind it.<br><br>I enjoy understanding why systems behave the way they do <br> — not just making them work.
 </em>
