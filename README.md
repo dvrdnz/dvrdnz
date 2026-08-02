@@ -21,6 +21,7 @@
 | **[az-900-intro...](https://github.com/dvrdnz/az-900-introduction-to-microsoft-azure)** |  AZ-900 course notes |
 | **[gemanki](https://github.com/dvrdnz/gemanki)**         | Library to generate Anki decks |
 | **[asset-forge](https://github.com/dvrdnz/asset-forge)** | Asset generators/templates  |
+| **[termux-pow…](https://github.com/dvrdnz/termux-power-usage)** | Termux Power Usage |
 
 <em>Documentation is not incidental to the work — it is the mechanism that separates assertion from established fact.</em>
 
