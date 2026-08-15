@@ -18,7 +18,6 @@
 | ---------------------------------------------------| ------------------------------------------------------------- |
 | **[LF11Bv2](https://github.com/dvrdnz/LF11Bv2)**  | Networked lab docu |
 | **[azure-learning](https://github.com/dvrdnz/azure-learning)** | Azure learning path|
-| **[az-900-intro...](https://github.com/dvrdnz/az-900-introduction-to-microsoft-azure)** |  AZ-900 course notes |
 | **[gemanki](https://github.com/dvrdnz/gemanki)**         | Library to generate Anki decks |
 | **[asset-forge](https://github.com/dvrdnz/asset-forge)** | Asset generators/templates  |
 | **[termux-pow…](https://github.com/dvrdnz/termux-power-usage)** | Termux Power Usage |
